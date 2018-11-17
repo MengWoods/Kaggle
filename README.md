@@ -1,2 +1,9 @@
 # Kaggle
-Kaggle competitions
+> Kaggle competitions's code  <br/> 
+Format Ipynb <br/> 
+Create on 17Nov.2018
+
+Table of Content
+
+* Titanic
+  * [LogisticRegression](https://github.com/MorganWoods/Kaggle/blob/master/LogisticsRegression.ipynb)
