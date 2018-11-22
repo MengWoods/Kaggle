@@ -7,3 +7,7 @@ Table of Content
 
 * Titanic
   * [LogisticRegression](https://github.com/MorganWoods/Kaggle/blob/master/LogisticsRegression.ipynb)
+  * [NeuralNetwork](https://github.com/MorganWoods/Kaggle/blob/master/NeuralNetwork.ipynb)
+  
+  
+  
