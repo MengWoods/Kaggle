@@ -9,5 +9,8 @@ Table of Content
   * [LogisticRegression](https://github.com/MorganWoods/Kaggle/blob/master/Titanic/LogisticsRegression.ipynb)
   * [NeuralNetwork](https://github.com/MorganWoods/Kaggle/blob/master/Titanic/NeuralNetwork.ipynb)
   
+* MNIST
+  * [CNN_keras](https://github.com/MorganWoods/Kaggle/blob/master/MNIST/cnn-keras-minst.ipynb)
+  
   
   
