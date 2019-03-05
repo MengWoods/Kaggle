@@ -12,5 +12,8 @@ Table of Content
 * MNIST
   * [CNN_keras](https://github.com/MorganWoods/Kaggle/blob/master/MNIST/cnn-keras-minst.ipynb)
   
+* Stantander customer transaction prediction
+  * [waiting](waiting)
+  
   
   
