@@ -1,5 +1,5 @@
 # Kaggle
-> Kaggle competitions's code  <br/> 
+> Kaggle competitions' code  <br/> 
 Format Ipynb <br/> 
 Create on 17Nov.2018
 
