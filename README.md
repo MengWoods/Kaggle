@@ -14,6 +14,7 @@ Table of Content
   
 * customer transaction prediction
   * [FeedForwardNN](https://github.com/MorganWoods/Kaggle/blob/master/TransactionPrediction/prediction-feedforwardnetwork.ipynb)
-  
-  
+
+* ImageNet Object Localization Challenge - Identify the objects in images
+  * [ObjectLocation](https://github.com/MorganWoods/Kaggle/blob/master/ObjectLocation/ObjectLocation.ipynb)
   
