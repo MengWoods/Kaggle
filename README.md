@@ -18,3 +18,6 @@ Table of Content
 * ImageNet Object Localization Challenge - Identify the objects in images
   * [ObjectLocation](https://github.com/MorganWoods/Kaggle/blob/master/ObjectLocation/ObjectLocation.ipynb)
   
+* Data Visualization
+  * [With Seaborn](https://github.com/MorganWoods/Kaggle/blob/master/DataVisualization/DataVisualization.ipynb)
+  
