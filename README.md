@@ -7,7 +7,7 @@ Table of Content
 
 * Titanic
   * [LogisticRegression](https://github.com/MorganWoods/Kaggle/blob/master/Titanic/Logistics.ipynb)
-  * [NeuralNetwork](https://github.com/MorganWoods/Kaggle/blob/master/Titanic/NeuralNetwork.ipynb)
+  * [NeuralNetwork](https://github.com/MorganWoods/Kaggle/blob/master/Titanic/Titanic%20Neural%20Network.ipynb)
   
 * MNIST
   * [CNN_keras](https://github.com/MorganWoods/Kaggle/blob/master/MNIST/cnn-keras-minst.ipynb)
